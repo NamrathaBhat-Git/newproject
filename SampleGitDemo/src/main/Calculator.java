@@ -31,7 +31,11 @@ public class Calculator {
 		      System.out.println(num1);
 
 		  }
+
+		public static void br1fun1(int num1){
+System.out.println(num1);}
 		public static void master1fun2(int num1){
+
 		      System.out.println(num1);
 
 		  }
